@@ -8,7 +8,7 @@ Free landing page template built using Nuxt 2 and Tailwindcss 3
 
 ## Project Structure
 
-.  
+ ~~~bash 
 ├── assets  
 │ ├── css  
 │ └── img  
@@ -22,32 +22,37 @@ Free landing page template built using Nuxt 2 and Tailwindcss 3
 ├── README.md  
 ├── nuxt.config.js  
 ├── package.json  
-└── tailwind.config.js  
+└── tailwind.config.js
+~~~
 
-## Getting Started
+## Install Npm Packages
+
+*NPM : You must have to npm install packages. You can do this by running npm install from the root of your project to install all the necessary dependencies :*
 
 ```bash
-# clone this repository or click 'use this template' button
-$ git clone https://github.com/RSurya99/nefa.git
+$ npm install
+ ```
 
-# install dependencies
-$ yarn install
+## Development server
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+*Run npm run dev for a dev server. Navigate to [http://localhost:3000] . The app will automatically reload if you change any of the source files.*
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+~~~bash
+$ npm run dev
+~~~
 
-# generate static project
-$ yarn generate
-```
+## Generate static project
 
-## Other version of NEFA
-- [React NEFA](https://github.com/hakimov-dev/nefa-react) by [Muhammadamin](https://github.com/hakimov-dev)
+~~~bash
+$ npm run generate
+~~~
 
-Use it for learn, but please don’t republish, redistribute, or resell the template.
+## Build for production and launch server
 
-Code by [rsurya99](https://github.com/rsurya99)  
-UI/UX by [irvanmoses](https://www.facebook.com/irvan.moses)
+~~~bash
+$ npm run build
+$ npm run start
+~~~
+For detailed explanation on how things work, check out Nuxt.js (https://nuxtjs.org/) docs.
+ 
+ 
