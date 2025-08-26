@@ -1,4 +1,4 @@
-# NEFA Landing Page
+#  Free landing page template built using Nuxtjs
 
 Free landing page template built using Nuxt 2 and Tailwindcss 3
 
