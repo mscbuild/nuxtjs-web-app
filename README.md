@@ -2,7 +2,7 @@
 
 Free landing page template built using Nuxt 2 and Tailwindcss 3
 
-> [LIVE DEMO](https://nefa.vercel.app/)
+> [LIVE DEMO](https://codiux.netlify.app)
 
 ![Thumbnail](assets/img/thumbnail.jpg)
 
