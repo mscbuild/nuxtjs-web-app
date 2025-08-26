@@ -53,6 +53,6 @@ $ npm run generate
 $ npm run build
 $ npm run start
 ~~~
-For detailed explanation on how things work, check out Nuxt.js https://nuxtjs.org/ docs.
+For detailed explanation on how things work, check out [Nuxt.js](https://nuxtjs.org/) docs.
  
  
